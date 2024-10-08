@@ -9,6 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@epic-web/remember": "^1.1.0",
     "@types/node": "20.16.10",
     "@types/react": "18.3.10",
     "@types/react-dom": "18.3.0",
@@ -16,11 +17,14 @@
     "@vercel/style-guide": "6.0.0",
     "class-variance-authority": "0.7.0",
     "clsx": "2.1.1",
+    "drizzle-kit": "^0.25.0",
+    "drizzle-orm": "^0.34.1",
     "eslint": "8.57.1",
     "eslint-config-next": "14.2.13",
     "next": "14.2.13",
     "next-themes": "0.3.0",
     "postcss": "8.4.47",
+    "postgres": "^3.4.4",
     "prettier": "3.3.3",
     "prettier-plugin-tailwindcss": "0.6.8",
     "react": "18.3.1",
